@@ -5,7 +5,7 @@ public class Word{
   private String mUzbekTranslation;
   
   public Word(String defaultTranslation, String uzbekTranslation){
-    mDefaultTranslation = mDefaultTranslation;
+    mDefaultTranslation = defaultTranslation;
     mUzbekTranslation = uzbekTranslation;
   }
   
